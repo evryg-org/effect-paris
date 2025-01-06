@@ -15,3 +15,12 @@
 [**Jean-Baptiste Musso**](https://github.com/jbmusso) : [Effect et OpenTelemetry sur Scaleway](https://github.com/user-attachments/files/17189220/Effect.Paris.Meetup.2.-.Effect.et.la.telemetrie.sur.Scaleway.2024.06.25.pd)
 
 [**Samuel Briole**](https://github.com/wewelll) : [Fullstack applications with Effect](https://github.com/user-attachments/files/17185665/Full-stack.applications.with.Effect.pdf)
+
+
+## [Effect Paris #3](https://www.meetup.com/fr-FR/effect-paris/events/304021172) - 05/12/2024
+
+[**Oscar Roche**](https://github.com/oscarwroche) : [Domain modeling avec Effect Schema](https://github.com/user-attachments/files/18320405/Domain.modeling.with.effect_Schema.pdf)
+
+[**Nicolas Assouad**](https://github.com/fondation451) : [Comment tester Effect avec Vitest](https://github.com/user-attachments/files/18320411/How.to.Test.Effect.Code_.pdf) 
+
+[**Antoine Coulon**](https://github.com/antoine-coulon) : [Les Fibers décryptées : la force cachée derrière Effect](https://antoine-coulon.github.io/uncovering-effect-fibers/1)
