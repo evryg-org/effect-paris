@@ -24,3 +24,27 @@
 [**Nicolas Assouad**](https://github.com/fondation451) : [Comment tester Effect avec Vitest](https://github.com/user-attachments/files/18320411/How.to.Test.Effect.Code_.pdf) 
 
 [**Antoine Coulon**](https://github.com/antoine-coulon) : [Les Fibers décryptées : la force cachée derrière Effect](https://antoine-coulon.github.io/uncovering-effect-fibers/1)
+
+## [Effect Paris #4](https://www.meetup.com/effect-paris/events/305180933) - 21/01/2025
+
+[**Jérémie Dayan**](https://github.com/jrmdayn) : Comment simplifier et standardiser la creation de formulaire en React grace à Effect
+
+[**Edouard Penin**](https://github.com/isthatcentered) : Présentation du data type Deferred et de ses use cases dans une application et pour le testing
+
+[**Vincent François**](https://github.com/vinassefranche) : L'injection de dépendance avec Effect: comment créer et utiliser des services
+
+## [Effect Paris #5](https://www.meetup.com/effect-paris/events/307558421/) - 20/05/2025
+
+[**Khalid Jebbari**](https://github.com/DjebbZ) : LLM + Effect
+
+[**Thomas Dupont**](https://github.com/ThomasDupont) : [Lean et Poka Yoke avec Effect](https://github.com/ThomasDupont/poke-yoke-example)
+
+[**Samuel Briole**](https://github.com/wewelll) : Our journey with RabbitMQ and Effect
+
+## [Effect Paris #6](https://www.meetup.com/fr-fr/effect-paris/events/312953757/) - 03/02/2026
+
+[**Swann Herrera**](https://github.com/SwannHERRERA) : [REX et intro à Effect Scheduler](https://github.com/SwannHERRERA/schedule-effect-meetup-6/tree/main/effect-meetup-6)
+
+[**Thomas Dupont**](https://github.com/ThomasDupont) : Domain Driven Design et programmation fonctionnelle avec Effect en pratique chez Hermès.
+
+[**Benjamin Drighès**](https://www.linkedin.com/in/bdrighes/) : IA et temps-réel : comment orchestrer le chaos avec Effect ?
